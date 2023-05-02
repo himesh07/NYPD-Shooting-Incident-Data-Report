@@ -12,6 +12,7 @@ Recommendations: This section provides recommendations for addressing the proble
 
 Overall, the report highlights the urgent need to address the problem of gun violence in New York City and provides recommendations for how to do so.
 
+
 ## About Data
 
 List of every shooting incident that occurred in NYC going back to 2006 through the end of the previous calendar year.
